@@ -16,7 +16,7 @@ public class dolap implements eEvAletleri{
 }
     @Override
     public int prizeTakVeCalistir(){
-    System.out.println("telefon ");
+    System.out.println("Buzdolabı ");
     return volt;
             }
     

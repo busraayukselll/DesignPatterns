@@ -9,5 +9,6 @@ package design.patterns.Structural.Adapter;
  * @author busra
  */
 public interface telefon {
-    
+
+    int sarjEt();
 }
